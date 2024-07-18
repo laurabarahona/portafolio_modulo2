@@ -1,0 +1,73 @@
+nav{
+    background-color: #A19389;
+}
+
+h1, h2, h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: justify;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    color: #615f59;
+}
+header {
+    background-color: #E8B4D0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.header-bg {
+    margin: 0;
+    padding: 20px;
+}
+p{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+}
+.h1-letra{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #615f59;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.bg-section{
+    background-color: #D0CCC7;
+}
+.imagen{
+    height: 160px;
+}
+.carousel-item{
+    color: black;
+}
+footer{
+    height: 50px;
+    background-color: #A19389;
+    color: white;
+}
+.icon{
+    padding: 5px;
+    font-size: 2rem;  
+}
+.texto{
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+.boton-rosa{
+    color: white;
+    background-color: #E8B4D0;
+    border: 2px solid #A19389;
+    background-size: cover;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+.boton-rosa:hover {
+    background-color: #E8B4D0; 
+    color: white; 
+}
+.place-holder{
+    height: 500px;
+}
+html {
+    scroll-behavior: smooth;
+  }
